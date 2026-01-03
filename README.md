@@ -15,4 +15,18 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Jass6767&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+---
+## 🧠 Data Structures & Algorithms
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-sjass6789-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/sjass6789/)
+
+![LeetCode Solved](https://img.shields.io/badge/Problems%20Solved-297+-brightgreen?style=for-the-badge&logo=leetcode)
+![LeetCode Rating](https://img.shields.io/badge/Contest%20Rating-1496-blue?style=for-the-badge&logo=leetcode)
+![DSA](https://img.shields.io/badge/DSA-Arrays%20|%20Trees%20|%20Graphs%20|%20DP-purple?style=for-the-badge)
+![LeetCode Languages](https://img.shields.io/badge/Coding%20In-C++%20|%20Python%20|%20Java-yellow?style=for-the-badge)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/sjass6789?theme=dark&font=Karma&ext=contest)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
