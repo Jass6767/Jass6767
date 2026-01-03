@@ -28,5 +28,14 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sjass6789?theme=dark&font=Karma&ext=contest)
 
+### 🏆 LeetCode Achievements
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=sjass6789)
+
+### 🔥 Consistency
+![LeetCode Streak](https://leetcode-streak-stats.herokuapp.com/?user=sjass6789&theme=dark)
+
+### 📊 Performance
+![LeetCode Stats](https://leetcard.jacoblin.cool/sjass6789?theme=dark&font=Karma&ext=contest)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
