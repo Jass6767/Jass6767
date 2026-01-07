@@ -29,13 +29,20 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sjass6789?theme=dark&font=Karma&ext=contest)
 
 ### 🏆 LeetCode Achievements
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=sjass6789)
+<h2 align="center">Leetcode Info<h2>  
+<p align="center">
+  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
+</p>
 
 ### 🔥 Consistency
 ![LeetCode Streak](https://leetcode-streak-stats.herokuapp.com/?user=sjass6789&theme=dark)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
 
