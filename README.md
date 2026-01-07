@@ -29,19 +29,26 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sjass6789?theme=dark&font=Karma&ext=contest)
 
 ### 🏆 LeetCode Achievements
-<h2 align="center">Leetcode Info<h2>  
+<h2 align="center">LeetCode Badges</h2>  
 <p align="center">
-  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/sjass6789/" target="_blank">
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-50.gif" alt="50 Days Badge 2024" height="200" width="200"/>
+  </a>
+  <a href="https://leetcode.com/sjass6789/" target="_blank">
+    <img src="https://leetcode.com/static/images/badges/2025/gif/2025-50.gif" alt="50 Days Badge 2025" height="200" width="200"/>
+  </a>
+  <a href="https://leetcode.com/sjass6789/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/marketing/badges/intro_to_pandas.png" alt="Introduction to Pandas Badge" height="200" width="200"/>
+  </a>
 </p>
+
 
 ### 🔥 Consistency
 ![LeetCode Streak](https://leetcode-streak-stats.herokuapp.com/?user=sjass6789&theme=dark)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
 
