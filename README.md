@@ -64,18 +64,16 @@
 
 ### 🏆 LeetCode Achievements
 
-![100 Days](https://img.shields.io/badge/100_Days_2026-Completed-0d1117?style=for-the-badge&logo=leetcode&logoColor=orange)
+![Badges](https://leetcode-badge-showcase.vercel.app/api?username=sjass6789&theme=github-dark&border=no-border)
 
-![50 Days 2026](https://img.shields.io/badge/50_Days_2026-Completed-0d1117?style=for-the-badge&logo=leetcode&logoColor=orange)
+### 📅 Annual
+![Annual](https://leetcode-badge-showcase.vercel.app/api?username=sjass6789&theme=github-dark&filter=annual&border=no-border)
 
-![50 Days 2025](https://img.shields.io/badge/50_Days_2025-Completed-0d1117?style=for-the-badge&logo=leetcode&logoColor=orange)
+### 🧠 Study Plan
+![Study](https://leetcode-badge-showcase.vercel.app/api?username=sjass6789&theme=github-dark&filter=study&border=no-border)
 
-![Active Streak](https://img.shields.io/badge/50_Days-Streak_Active-0d1117?style=for-the-badge&logo=leetcode&logoColor=orange)
-
-![Data Navigator](https://img.shields.io/badge/Data_Navigator-Database_Track-0d1117?style=for-the-badge&logo=leetcode&logoColor=orange)
-
-![Pandas](https://img.shields.io/badge/Intro_to_Pandas-Completed-0d1117?style=for-the-badge&logo=leetcode&logoColor=orange)
-
+### 🏅 Competition
+![Comp](https://leetcode-badge-showcase.vercel.app/api?username=sjass6789&theme=github-dark&filter=comp&border=no-border)
 
 
 
