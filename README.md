@@ -63,7 +63,18 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sjass6789?theme=dark&font=Karma&ext=contest)
 
 ### 🏆 LeetCode Achievements
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=sjass6789&animated=true)
+
+![100 Days](https://img.shields.io/badge/100_Days_2026-Completed-0d1117?style=for-the-badge&logo=leetcode&logoColor=orange)
+
+![50 Days 2026](https://img.shields.io/badge/50_Days_2026-Completed-0d1117?style=for-the-badge&logo=leetcode&logoColor=orange)
+
+![50 Days 2025](https://img.shields.io/badge/50_Days_2025-Completed-0d1117?style=for-the-badge&logo=leetcode&logoColor=orange)
+
+![Active Streak](https://img.shields.io/badge/50_Days-Streak_Active-0d1117?style=for-the-badge&logo=leetcode&logoColor=orange)
+
+![Data Navigator](https://img.shields.io/badge/Data_Navigator-Database_Track-0d1117?style=for-the-badge&logo=leetcode&logoColor=orange)
+
+![Pandas](https://img.shields.io/badge/Intro_to_Pandas-Completed-0d1117?style=for-the-badge&logo=leetcode&logoColor=orange)
 
 
 
